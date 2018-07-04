@@ -1,4 +1,7 @@
 # Clean React Boilerplate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/robhowell/clean-react-boilerplate.svg)](https://greenkeeper.io/)
+
 A simple boilerplate for React-based web application projects.
 
 ### Features
